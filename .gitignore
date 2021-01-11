@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# AWS Lambda dependencies
+package/
+
+# Other
+.DS_Store
